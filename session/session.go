@@ -3,7 +3,7 @@ package session
 import (
 	"errors"
 	"github.com/magiconair/properties"
-	"gopkg.in/mgo.v2"
+	"github.com/vaibhav-testbook/mgo"
 	"log"
 	"strconv"
 	"strings"
